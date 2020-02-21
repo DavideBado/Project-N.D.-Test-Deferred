@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Definitive/MainMenu.unity
+- path: Assets/Scenes/Definitive/3DBlockout.unity
   isLoaded: 1
   isActive: 1
